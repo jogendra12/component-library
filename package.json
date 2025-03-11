@@ -19,9 +19,9 @@
     "license": "MIT",
     "repository": {
       "type": "git",
-      "url": "https://github.com/your-username/custom-gutenberg-controls.git"
+      "url": "https://github.com/jogendra12/component-library.git"
     },
-    "homepage": "https://github.com/your-username/custom-gutenberg-controls",
+    "homepage": "https://github.com/jogendra12/component-library.git",
     "files": ["dist"],
     "peerDependencies": {
       "@wordpress/components": "^19.0.0",
