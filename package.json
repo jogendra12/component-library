@@ -1,0 +1,37 @@
+{
+    "name": "@jo-shu-block/custom-gutenberg-controls",
+    "version": "1.0.0",
+    "description": "Custom design controls library for WordPress Gutenberg",
+    "main": "dist/index.js",
+    "module": "dist/index.js",
+    "scripts": {
+      "build": "wp-scripts build",
+      "start": "wp-scripts start",
+      "test": "wp-scripts test-unit-js"
+    },
+    "keywords": [
+      "wordpress",
+      "gutenberg",
+      "components",
+      "design-system"
+    ],
+    "author": "Jogendra Singh jogendradj17@gmail.com",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/your-username/custom-gutenberg-controls.git"
+    },
+    "homepage": "https://github.com/your-username/custom-gutenberg-controls",
+    "files": ["dist"],
+    "peerDependencies": {
+      "@wordpress/components": "^19.0.0",
+      "@wordpress/element": "^4.0.0",
+      "@wordpress/i18n": "^4.0.0",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+      "@wordpress/scripts": "^23.0.0"
+    }
+  }
+  
