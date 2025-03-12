@@ -1,5 +1,5 @@
 {
-    "name": "@jo-shu-block/custom-gutenberg-controls",
+    "name": "@joshublock/custom-gutenberg-controls",
     "version": "1.0.0",
     "description": "Custom design controls library for WordPress Gutenberg",
     "main": "dist/index.js",
@@ -27,8 +27,8 @@
       "@wordpress/components": "^19.0.0",
       "@wordpress/element": "^4.0.0",
       "@wordpress/i18n": "^4.0.0",
-      "react": "^18.2.0",
-      "react-dom": "^18.2.0"
+      "react": ">=17.0.0",
+      "react-dom": ">=17.0.0"
     },
     "devDependencies": {
       "@wordpress/scripts": "^23.0.0"
